@@ -31,7 +31,7 @@
   <div class="col-md-12">
     <label for="validationCustomUsername" class="form-label">Yayınevi</label>
     <div class="input-group has-validation">
-      <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" name="yayınevi" required>
+      <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" name="yayinevi" required>
  
     </div>
   </div>
